@@ -1,6 +1,6 @@
 # flutter_unitest
 
-A new Flutter project.
+Sample flutter app for unit testing. In this project, Simple unit testing is implemented using field validation for login page. 
 
 ## Getting Started
 
