@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_unitest/Constants.dart';
-import 'package:flutter_unitest/FieldValidator.dart';
+import 'package:flutter_unitest/constants.dart';
+import 'package:flutter_unitest/field_validator.dart';
 
 void main(){
   test('empty email test',(){

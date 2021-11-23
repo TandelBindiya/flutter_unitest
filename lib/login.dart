@@ -1,6 +1,6 @@
-import 'package:flutter_unitest/Constants.dart';
+import 'package:flutter_unitest/constants.dart';
 
-import 'FieldValidator.dart';
+import 'field_validator.dart';
 import 'package:flutter/material.dart';
 
 class Login extends StatefulWidget {
